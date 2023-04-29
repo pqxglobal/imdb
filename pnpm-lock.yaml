@@ -1,9 +1,6 @@
 lockfileVersion: '6.0'
 
 dependencies:
-  eslint:
-    specifier: 8.39.0
-    version: 8.39.0
   eslint-config-next:
     specifier: 13.3.1
     version: 13.3.1(eslint@8.39.0)(typescript@5.0.4)
