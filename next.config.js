@@ -5,7 +5,8 @@ const nextConfig = {
   },
   images: {
     domains: [
-      "image.tmdb.org"
+      "image.tmdb.org",
+      "api.themoviedb.org"
     ]
   }
 }
