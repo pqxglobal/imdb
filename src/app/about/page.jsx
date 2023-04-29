@@ -1,7 +1,6 @@
 export const metadata = {
   title: "About IMDb",
   description: "About",
-  },
 };
 
 export default function About() {
